@@ -16,7 +16,6 @@ int main() {
     int mapn[XMAX][YMAX];
 
     **map = GameScreenInit(map);
-    // ncurses init
     GameScreeOnInput(map);
     return 0;
 }
