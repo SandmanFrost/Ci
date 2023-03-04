@@ -23,50 +23,50 @@ void LogPrintChar(FILE *f, tim *t, char *filename, char text) {
 
 void LogStart(char *filename) {
   tim t;
-  log_init(&t);
+  LogInit(&t);
   FILE *f = fopen("LOG.txt", "w");
-  log_time(&t);
-  log_print(f, &t, filename, "BEGINING PROGRAMM");
+  LogTime(&t);
+  LogPrint(f, &t, filename, "BEGINING PROGRAMM");
   fclose(f);
   free(t.stime);
 }
 
 void LogStatus(char *filename, char *status) {
   tim t;
-  log_init(&t);
+  LogInit(&t);
   FILE *f = fopen("LOG.txt", "a+");
-  log_time(&t);
-  log_print(f, &t, filename, status);
+  LogTime(&t);
+  LogPrint(f, &t, filename, status);
   fclose(f);
   free(t.stime);
 }
 
 void LogStatusNumber(char *filename, int num) {
   tim t;
-  log_init(&t);
+  LogInit(&t);
   FILE *f = fopen("LOG.txt", "a+");
-  log_time(&t);
-  log_print_num(f, &t, filename, num);
+  LogTime(&t);
+  LogPrintNum(f, &t, filename, num);
   fclose(f);
   free(t.stime);
 }
 
 void LogStatusChar(char *filename, char status) {
   tim t;
-  log_init(&t);
+  LogInit(&t);
   FILE *f = fopen("LOG.txt", "a+");
-  log_time(&t);
-  log_print_char(f, &t, filename, status);
+  LogTime(&t);
+  LogPrintChar(f, &t, filename, status);
   fclose(f);
   free(t.stime);
 }
 
 void LogEnd(char *filename) {
   tim t;
-  log_init(&t);
+  LogInit(&t);
   FILE *f = fopen("LOG.txt", "a+");
-  log_time(&t);
-  log_print(f, &t, filename, "END PROGRAMM\n");
+  LogTime(&t);
+  LogPrint(f, &t, filename, "END PROGRAMM\n");
   fclose(f);
   free(t.stime);
 }
