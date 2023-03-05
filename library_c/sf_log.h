@@ -7,7 +7,7 @@
 #include <time.h>
 
 typedef struct sf_time {
-    char stime[40];
+  char stime[40];
 } tim;
 
 void LogInit(tim *t);

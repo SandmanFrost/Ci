@@ -5,7 +5,7 @@ void LogInit(tim *t) { memset(t->stime, 0, sizeof(t->stime)); }
 void LogTime(tim *t) {
   struct tm *ti;
   const time_t timer = time(NULL);
-  ti = localetime(&time);
+  ti = localtime(&timer);
   strftime(t->stime, sizeof(t->stime), "%Y-%m-%d %H:%M:%S", ti);
 }
 
@@ -24,11 +24,10 @@ void LogPrintChar(FILE *f, tim *t, char *filename, char text) {
 void LogStart(char *filename) {
   tim t;
   LogInit(&t);
-  FILE *f = fopen("LOG.txt", "w");
+  FILE *f = fopen("LOG.txt", "a+");
   LogTime(&t);
   LogPrint(f, &t, filename, "BEGINING PROGRAMM");
   fclose(f);
-  free(t.stime);
 }
 
 void LogStatus(char *filename, char *status) {
@@ -38,7 +37,6 @@ void LogStatus(char *filename, char *status) {
   LogTime(&t);
   LogPrint(f, &t, filename, status);
   fclose(f);
-  free(t.stime);
 }
 
 void LogStatusNumber(char *filename, int num) {
@@ -48,7 +46,6 @@ void LogStatusNumber(char *filename, int num) {
   LogTime(&t);
   LogPrintNum(f, &t, filename, num);
   fclose(f);
-  free(t.stime);
 }
 
 void LogStatusChar(char *filename, char status) {
@@ -58,7 +55,6 @@ void LogStatusChar(char *filename, char status) {
   LogTime(&t);
   LogPrintChar(f, &t, filename, status);
   fclose(f);
-  free(t.stime);
 }
 
 void LogEnd(char *filename) {
@@ -66,7 +62,6 @@ void LogEnd(char *filename) {
   LogInit(&t);
   FILE *f = fopen("LOG.txt", "a+");
   LogTime(&t);
-  LogPrint(f, &t, filename, "END PROGRAMM\n");
+  LogPrint(f, &t, filename, "END PROGRAMM\n\n");
   fclose(f);
-  free(t.stime);
 }
