@@ -18,7 +18,6 @@ int main(int argc, char** argv) {
   for (int i = 0; i < argc; i++) {
     printf("argv[%d] = \"%s\"\n", i, argv[i]);
     LogStatus(argv[0], "[RUS]: Обработка аргумента:");
-    LogStatus(argv[0], argv[i]);
     LogStatus(argv[0], "[ENG]: Argument Processing:");
     LogStatus(argv[0], argv[i]);
   }

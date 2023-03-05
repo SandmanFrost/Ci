@@ -24,7 +24,7 @@ void LogPrintChar(FILE *f, tim *t, char *filename, char text) {
 void LogStart(char *filename) {
   tim t;
   LogInit(&t);
-  FILE *f = fopen("LOG.txt", "a+");
+  FILE *f = fopen("logs.txt", "a+");
   LogTime(&t);
   LogPrint(f, &t, filename, "BEGINING PROGRAMM");
   fclose(f);
@@ -33,7 +33,7 @@ void LogStart(char *filename) {
 void LogStatus(char *filename, char *status) {
   tim t;
   LogInit(&t);
-  FILE *f = fopen("LOG.txt", "a+");
+  FILE *f = fopen("logs.txt", "a+");
   LogTime(&t);
   LogPrint(f, &t, filename, status);
   fclose(f);
@@ -42,7 +42,7 @@ void LogStatus(char *filename, char *status) {
 void LogStatusNumber(char *filename, int num) {
   tim t;
   LogInit(&t);
-  FILE *f = fopen("LOG.txt", "a+");
+  FILE *f = fopen("logs.txt", "a+");
   LogTime(&t);
   LogPrintNum(f, &t, filename, num);
   fclose(f);
@@ -51,7 +51,7 @@ void LogStatusNumber(char *filename, int num) {
 void LogStatusChar(char *filename, char status) {
   tim t;
   LogInit(&t);
-  FILE *f = fopen("LOG.txt", "a+");
+  FILE *f = fopen("logs.txt", "a+");
   LogTime(&t);
   LogPrintChar(f, &t, filename, status);
   fclose(f);
@@ -60,7 +60,7 @@ void LogStatusChar(char *filename, char status) {
 void LogEnd(char *filename) {
   tim t;
   LogInit(&t);
-  FILE *f = fopen("LOG.txt", "a+");
+  FILE *f = fopen("logs.txt", "a+");
   LogTime(&t);
   LogPrint(f, &t, filename, "END PROGRAMM\n\n");
   fclose(f);
