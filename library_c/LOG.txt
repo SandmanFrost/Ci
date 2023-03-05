@@ -1,0 +1,114 @@
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: BEGINING PROGRAMM
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: [RUS]: Проверка наличия аргументов.
+										Подключение поддержки русского языка.
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: [ENG]: Checking for arguments.
+										Enabling Russian language support.
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: [RUS]: Нет аргументов для обработки.
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: [ENG]: There are no arguments to process.
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: [RUS]: Обработка аргумента:
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: ./test_logs
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: [ENG]: Argument Processing:
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: ./test_logs
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: END PROGRAMM
+
+
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: BEGINING PROGRAMM
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: [RUS]: Проверка наличия аргументов.
+										Подключение поддержки русского языка.
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: [ENG]: Checking for arguments.
+										Enabling Russian language support.
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: [RUS]: Обработка аргумента:
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: ./test_logs
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: [ENG]: Argument Processing:
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: ./test_logs
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: [RUS]: Обработка аргумента:
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: Hello
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: [ENG]: Argument Processing:
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: Hello
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: [RUS]: Обработка аргумента:
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: Name
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: [ENG]: Argument Processing:
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: Name
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: [RUS]: Обработка аргумента:
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: System
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: [ENG]: Argument Processing:
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: System
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: [RUS]: Обработка аргумента:
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: 32
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: [ENG]: Argument Processing:
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: 32
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: END PROGRAMM
+
+
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: BEGINING PROGRAMM
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: [RUS]: Проверка наличия аргументов.
+										Подключение поддержки русского языка.
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: [ENG]: Checking for arguments.
+										Enabling Russian language support.
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: [RUS]: Обработка аргумента:
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: ./test_logs
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: [ENG]: Argument Processing:
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: ./test_logs
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: [RUS]: Обработка аргумента:
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: Hello.
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: [ENG]: Argument Processing:
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: Hello.
+[LOG] [TIME 2023-03-05 17:59:18]		./test_logs: END PROGRAMM
+
+
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: BEGINING PROGRAMM
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: [RUS]: Проверка наличия аргументов.
+										Подключение поддержки русского языка.
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: [ENG]: Checking for arguments.
+										Enabling Russian language support.
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: [RUS]: Нет аргументов для обработки.
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: [ENG]: There are no arguments to process.
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: [RUS]: Обработка аргумента:
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: ./test_logs
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: [ENG]: Argument Processing:
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: ./test_logs
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: END PROGRAMM
+
+
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: BEGINING PROGRAMM
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: [RUS]: Проверка наличия аргументов.
+										Подключение поддержки русского языка.
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: [ENG]: Checking for arguments.
+										Enabling Russian language support.
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: [RUS]: Обработка аргумента:
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: ./test_logs
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: [ENG]: Argument Processing:
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: ./test_logs
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: [RUS]: Обработка аргумента:
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: Hello
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: [ENG]: Argument Processing:
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: Hello
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: [RUS]: Обработка аргумента:
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: Name
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: [ENG]: Argument Processing:
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: Name
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: [RUS]: Обработка аргумента:
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: System
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: [ENG]: Argument Processing:
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: System
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: [RUS]: Обработка аргумента:
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: 32
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: [ENG]: Argument Processing:
+[LOG] [TIME 2023-03-05 18:00:22]		./test_logs: 32
+[LOG] [TIME 2023-03-05 18:00:23]		./test_logs: END PROGRAMM
+
+
+[LOG] [TIME 2023-03-05 18:00:23]		./test_logs: BEGINING PROGRAMM
+[LOG] [TIME 2023-03-05 18:00:23]		./test_logs: [RUS]: Проверка наличия аргументов.
+										Подключение поддержки русского языка.
+[LOG] [TIME 2023-03-05 18:00:23]		./test_logs: [ENG]: Checking for arguments.
+										Enabling Russian language support.
+[LOG] [TIME 2023-03-05 18:00:23]		./test_logs: [RUS]: Обработка аргумента:
+[LOG] [TIME 2023-03-05 18:00:23]		./test_logs: ./test_logs
+[LOG] [TIME 2023-03-05 18:00:23]		./test_logs: [ENG]: Argument Processing:
+[LOG] [TIME 2023-03-05 18:00:23]		./test_logs: ./test_logs
+[LOG] [TIME 2023-03-05 18:00:23]		./test_logs: [RUS]: Обработка аргумента:
+[LOG] [TIME 2023-03-05 18:00:23]		./test_logs: Hello.
+[LOG] [TIME 2023-03-05 18:00:23]		./test_logs: [ENG]: Argument Processing:
+[LOG] [TIME 2023-03-05 18:00:23]		./test_logs: Hello.
+[LOG] [TIME 2023-03-05 18:00:23]		./test_logs: END PROGRAMM
