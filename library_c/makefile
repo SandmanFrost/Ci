@@ -12,7 +12,7 @@ all: compile run run1 run2
 
 deb: compile_deb run_deb run_deb1 run_deb2
 
-clean: rm -rf $(NAME) LOG.txt
+clean: rm -rf $(NAME)
 
 
 compile_deb:
