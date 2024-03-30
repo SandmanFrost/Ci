@@ -1,0 +1,103 @@
+[LOG] [TIME 2024-03-30 12:40:03]		.\a.exe: BEGINING PROGRAMM
+[LOG] [TIME 2024-03-30 12:40:03]		.\a.exe: [RUS]: Проверка наличия аргументов.
+										Подключение поддержки русского языка.
+[LOG] [TIME 2024-03-30 12:40:03]		.\a.exe: [ENG]: Checking for arguments.
+										Enabling Russian language support.
+[LOG] [TIME 2024-03-30 12:40:03]		.\a.exe: [RUS]: Нет аргументов для обработки.
+[LOG] [TIME 2024-03-30 12:40:03]		.\a.exe: [ENG]: There are no arguments to process.
+[LOG] [TIME 2024-03-30 12:40:03]		.\a.exe: [RUS]: Обработка аргумента:
+[LOG] [TIME 2024-03-30 12:40:03]		.\a.exe: [ENG]: Argument Processing:
+[LOG] [TIME 2024-03-30 12:40:03]		.\a.exe: .\a.exe
+[LOG] [TIME 2024-03-30 12:40:03]		.\a.exe: END PROGRAMM
+
+
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: BEGINING PROGRAMM
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: [RUS]: Проверка наличия аргументов.
+										Подключение поддержки русского языка.
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: [ENG]: Checking for arguments.
+										Enabling Russian language support.
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: [RUS]: Обработка аргумента:
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: [ENG]: Argument Processing:
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: .\a.exe
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: [RUS]: Обработка аргумента:
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: [ENG]: Argument Processing:
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: 1
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: [RUS]: Обработка аргумента:
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: [ENG]: Argument Processing:
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: 2
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: [RUS]: Обработка аргумента:
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: [ENG]: Argument Processing:
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: 3
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: [RUS]: Обработка аргумента:
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: [ENG]: Argument Processing:
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: 4
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: [RUS]: Обработка аргумента:
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: [ENG]: Argument Processing:
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: 5
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: [RUS]: Обработка аргумента:
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: [ENG]: Argument Processing:
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: 6
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: [RUS]: Обработка аргумента:
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: [ENG]: Argument Processing:
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: 7
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: [RUS]: Обработка аргумента:
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: [ENG]: Argument Processing:
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: 8
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: [RUS]: Обработка аргумента:
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: [ENG]: Argument Processing:
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: 9
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: [RUS]: Обработка аргумента:
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: [ENG]: Argument Processing:
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: 10
+[LOG] [TIME 2024-03-30 12:40:11]		.\a.exe: END PROGRAMM
+
+
+[LOG] [TIME 2024-03-30 12:40:30]		.\a.exe: BEGINING PROGRAMM
+[LOG] [TIME 2024-03-30 12:40:30]		.\a.exe: [RUS]: Проверка наличия аргументов.
+										Подключение поддержки русского языка.
+[LOG] [TIME 2024-03-30 12:40:30]		.\a.exe: [ENG]: Checking for arguments.
+										Enabling Russian language support.
+[LOG] [TIME 2024-03-30 12:40:30]		.\a.exe: [RUS]: Обработка аргумента:
+[LOG] [TIME 2024-03-30 12:40:30]		.\a.exe: [ENG]: Argument Processing:
+[LOG] [TIME 2024-03-30 12:40:30]		.\a.exe: .\a.exe
+[LOG] [TIME 2024-03-30 12:40:30]		.\a.exe: [RUS]: Обработка аргумента:
+[LOG] [TIME 2024-03-30 12:40:30]		.\a.exe: [ENG]: Argument Processing:
+[LOG] [TIME 2024-03-30 12:40:30]		.\a.exe: input
+[LOG] [TIME 2024-03-30 12:40:30]		.\a.exe: [RUS]: Обработка аргумента:
+[LOG] [TIME 2024-03-30 12:40:30]		.\a.exe: [ENG]: Argument Processing:
+[LOG] [TIME 2024-03-30 12:40:30]		.\a.exe: output
+[LOG] [TIME 2024-03-30 12:40:30]		.\a.exe: [RUS]: Обработка аргумента:
+[LOG] [TIME 2024-03-30 12:40:30]		.\a.exe: [ENG]: Argument Processing:
+[LOG] [TIME 2024-03-30 12:40:30]		.\a.exe: system
+[LOG] [TIME 2024-03-30 12:40:30]		.\a.exe: [RUS]: Обработка аргумента:
+[LOG] [TIME 2024-03-30 12:40:30]		.\a.exe: [ENG]: Argument Processing:
+[LOG] [TIME 2024-03-30 12:40:30]		.\a.exe: #include
+[LOG] [TIME 2024-03-30 12:40:30]		.\a.exe: END PROGRAMM
+
+
+[LOG] [TIME 2024-03-30 12:40:50]		.\a.exe: BEGINING PROGRAMM
+[LOG] [TIME 2024-03-30 12:40:50]		.\a.exe: [RUS]: Проверка наличия аргументов.
+										Подключение поддержки русского языка.
+[LOG] [TIME 2024-03-30 12:40:50]		.\a.exe: [ENG]: Checking for arguments.
+										Enabling Russian language support.
+[LOG] [TIME 2024-03-30 12:40:50]		.\a.exe: [RUS]: Обработка аргумента:
+[LOG] [TIME 2024-03-30 12:40:50]		.\a.exe: [ENG]: Argument Processing:
+[LOG] [TIME 2024-03-30 12:40:50]		.\a.exe: .\a.exe
+[LOG] [TIME 2024-03-30 12:40:50]		.\a.exe: [RUS]: Обработка аргумента:
+[LOG] [TIME 2024-03-30 12:40:50]		.\a.exe: [ENG]: Argument Processing:
+[LOG] [TIME 2024-03-30 12:40:50]		.\a.exe: input
+[LOG] [TIME 2024-03-30 12:40:50]		.\a.exe: [RUS]: Обработка аргумента:
+[LOG] [TIME 2024-03-30 12:40:50]		.\a.exe: [ENG]: Argument Processing:
+[LOG] [TIME 2024-03-30 12:40:50]		.\a.exe: output
+[LOG] [TIME 2024-03-30 12:40:51]		.\a.exe: [RUS]: Обработка аргумента:
+[LOG] [TIME 2024-03-30 12:40:51]		.\a.exe: [ENG]: Argument Processing:
+[LOG] [TIME 2024-03-30 12:40:51]		.\a.exe: system
+[LOG] [TIME 2024-03-30 12:40:51]		.\a.exe: [RUS]: Обработка аргумента:
+[LOG] [TIME 2024-03-30 12:40:51]		.\a.exe: [ENG]: Argument Processing:
+[LOG] [TIME 2024-03-30 12:40:51]		.\a.exe: #include
+[LOG] [TIME 2024-03-30 12:40:51]		.\a.exe: [RUS]: Обработка аргумента:
+[LOG] [TIME 2024-03-30 12:40:51]		.\a.exe: [ENG]: Argument Processing:
+[LOG] [TIME 2024-03-30 12:40:51]		.\a.exe: русский
+[LOG] [TIME 2024-03-30 12:40:51]		.\a.exe: END PROGRAMM
+
+
